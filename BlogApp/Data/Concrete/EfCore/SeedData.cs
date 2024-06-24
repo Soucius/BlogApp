@@ -62,6 +62,8 @@ namespace BlogApp.Data.Concrete.EfCore {
 
                     context.SaveChanges();
                 }
+
+                context.SaveChanges();
             }
         }
     }

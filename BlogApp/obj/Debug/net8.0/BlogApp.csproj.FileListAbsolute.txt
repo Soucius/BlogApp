@@ -121,3 +121,5 @@ C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\re
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.pdb
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.genruntimeconfig.cache
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\ref\BlogApp.dll
+C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cache
+C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cs

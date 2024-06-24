@@ -3,17 +3,16 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<BlogContext>(options => {
-    var config = builder.Configuration;
-    var connectionString = config.GetConnectionString("sql_connection");
+builder.Services.AddControllersWithViews();
 
-    options.UseSqlite(connectionString);
+builder.Services.AddDbContext<BlogContext>(options => {
+    options.UseSqlite(builder.Configuration["ConnectionStrings:sql_connection"]);
 });
 
 var app = builder.Build();
 
 SeedData.TestVerileriniDoldur(app);
 
-app.MapGet("/", () => "Hello World!");
+app.MapDefaultControllerRoute();
 
 app.Run();
