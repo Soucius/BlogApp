@@ -123,3 +123,5 @@ C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\Bl
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\ref\BlogApp.dll
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cache
 C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cs
+C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\bin\Debug\net8.0\libman.json
+C:\Users\Soucius\Desktop\aspnetcore-dersleri\BlogApp\BlogApp\bin\Debug\net8.0\BlogApp.staticwebassets.runtime.json
