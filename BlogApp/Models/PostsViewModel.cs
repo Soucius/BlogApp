@@ -1,7 +1,9 @@
 using BlogApp.Entity;
 
-namespace BlogApp.Model {
-    public class PostsViewModel {
+namespace BlogApp.Models
+{
+    public class PostsViewModel
+    {
         public List<Post> Posts { get; set; } = new();
     }
 }

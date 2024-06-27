@@ -1,7 +1,12 @@
 body {
-    background-color: #EFF2F6;
+    background-color: #eff2f6;
 }
 
 a {
     text-decoration: none;
+}
+
+.avatar {
+    width: 3rem;
+    height: 3rem;
 }
